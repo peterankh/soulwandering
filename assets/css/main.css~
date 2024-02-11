@@ -1843,7 +1843,7 @@ input, select, textarea {
 /* Feature List */
 
 	.feature-list {
-		max-width: 58em;
+		max-width: 53em;
 		margin-left: auto;
 		margin-right: auto;
 		position: relative;

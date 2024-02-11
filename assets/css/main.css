@@ -1449,7 +1449,7 @@ input, select, textarea {
 	article > :last-child,
 	section:last-child,
 	article:last-child {
-		margin-bottom: 0;
+		margin-bottom: 4em;
 	}
 
 	header.style1 {
