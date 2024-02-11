@@ -1843,7 +1843,7 @@ input, select, textarea {
 /* Feature List */
 
 	.feature-list {
-		max-width: 58em;
+		max-width: 53em;
 		margin-left: auto;
 		margin-right: auto;
 		position: relative;
@@ -2059,7 +2059,7 @@ input, select, textarea {
 /* Page Wrapper */
 
 	#page-wrapper > section {
-		margin-bottom: 0;
+		margin-bottom: 1em;
 	}
 
 /* Header */
@@ -2297,7 +2297,7 @@ ext-align: right;			color: #f9f9f9;
 		background: #ffffff;
 		color: #eee;
 		color: #13B8B7;
-		padding-bottom: 9em;
+		padding-bottom: 1em;
 	}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b, #footer a {

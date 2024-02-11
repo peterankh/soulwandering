@@ -2027,7 +2027,7 @@ input, select, textarea {
 			.wrapper.style1 .title {
 				background: #13B8B7 url("images/overlay.png");
 				color: #f5e4e4;
-				margin-top: -2em
+				
 			}
 
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6, .wrapper.style1 strong, .wrapper.style1 b, .wrapper.style1 a {
@@ -2059,7 +2059,7 @@ input, select, textarea {
 /* Page Wrapper */
 
 	#page-wrapper > section {
-		margin-bottom: 0;
+		margin-bottom: 1em;
 	}
 
 /* Header */
@@ -2297,7 +2297,7 @@ ext-align: right;			color: #f9f9f9;
 		background: #ffffff;
 		color: #eee;
 		color: #13B8B7;
-		padding-bottom: 6em;
+		padding-bottom: 1em;
 	}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong, #footer b, #footer a {
