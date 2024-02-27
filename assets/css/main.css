@@ -413,7 +413,7 @@ input, select, textarea {
 		}
 
 			.row > * {
-				padding: 50px 0 0 33px;
+				padding: 50px 0 0 50px;
 			}
 
 			.row.gtr-uniform {
@@ -1843,7 +1843,7 @@ input, select, textarea {
 /* Feature List */
 
 	.feature-list {
-		max-width: 53em;
+		max-width: 58em;
 		margin-left: auto;
 		margin-right: auto;
 		position: relative;
