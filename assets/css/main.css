@@ -1195,22 +1195,7 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 736px) {
- .wrapingimage  
-    {  
-    float: left;   
- margin: 0px 38px 0px 3px;     
-    
-    }   
-    .wrapingimage1  
-    {  
-    float: right;   
- margin: 0px 3px 0px 38px;     
-    
-    }   
-     
-.responsive {
-  width: 70%;
-  height: auto;
+
 
 			.row {
 				display: flex;
