@@ -1195,11 +1195,11 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 736px) {
- .alignleft {
+ .wrappingimage {
         float: left;
         padding-right: 15px;
     }
-    .alignright {
+    .wrappingimage1 {
         float: right;
         padding-left: 15px;
     }
@@ -1644,7 +1644,7 @@ input, select, textarea {
     }   
      
 .responsive {
-  width: 100%;
+  width: 50%;
   height: auto;
 }
 /* Button */
