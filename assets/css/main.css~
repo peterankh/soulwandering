@@ -237,6 +237,7 @@ input, select, textarea {
 
 		.row.aln-center {
 			justify-content: center;
+		
 		}
 
 		.row.aln-right {
@@ -410,10 +411,11 @@ input, select, textarea {
 			margin-top: -50px;
 			margin-left: -50px;
 			margin-bottom: -50px;
+			margin-right: 30px;
 		}
 
 			.row > * {
-				padding: 50px 0 0 33px;
+				padding: 80px 0 0 40px;
 			}
 
 			.row.gtr-uniform {
@@ -1195,6 +1197,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
+
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -1437,6 +1440,7 @@ input, select, textarea {
 						}
 
 		}
+		
 
 /* Section/Article */
 
@@ -1449,7 +1453,8 @@ input, select, textarea {
 	article > :last-child,
 	section:last-child,
 	article:last-child {
-		margin-bottom: 0;
+		margin-bottom: 4em;
+		
 	}
 
 	header.style1 {
@@ -2059,7 +2064,7 @@ input, select, textarea {
 /* Page Wrapper */
 
 	#page-wrapper > section {
-		margin-bottom: 1em;
+		margin-bottom: 0em;
 	}
 
 /* Header */
