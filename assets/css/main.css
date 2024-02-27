@@ -410,6 +410,7 @@ input, select, textarea {
 			margin-top: -50px;
 			margin-left: -50px;
 			margin-bottom: -50px;
+			margin-right: -50px;
 		}
 
 			.row > * {
@@ -2059,7 +2060,7 @@ input, select, textarea {
 /* Page Wrapper */
 
 	#page-wrapper > section {
-		margin-bottom: 1em;
+		margin-bottom: 0em;
 	}
 
 /* Header */
