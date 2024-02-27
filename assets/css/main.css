@@ -1438,6 +1438,16 @@ input, select, textarea {
 						}
 
 		}
+		@media (max-width: 768px) {
+    .alignleft {
+        float: left;
+        padding-right: 15px;
+    }
+    .alignright {
+        float: right;
+        padding-left: 15px;
+    }
+}
 
 /* Section/Article */
 
