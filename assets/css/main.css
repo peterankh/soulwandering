@@ -2059,7 +2059,7 @@ input, select, textarea {
 /* Page Wrapper */
 
 	#page-wrapper > section {
-		margin-bottom: 1em;
+		margin-bottom: 0em;
 	}
 
 /* Header */
