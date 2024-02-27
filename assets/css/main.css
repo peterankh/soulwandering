@@ -1195,7 +1195,14 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 736px) {
-
+ .alignleft {
+        float: left;
+        padding-right: 15px;
+    }
+    .alignright {
+        float: right;
+        padding-left: 15px;
+    }
 			.row {
 				display: flex;
 				flex-wrap: wrap;
@@ -1438,16 +1445,7 @@ input, select, textarea {
 						}
 
 		}
-		@media (max-width: 768px) {
-    .alignleft {
-        float: left;
-        padding-right: 15px;
-    }
-    .alignright {
-        float: right;
-        padding-left: 15px;
-    }
-}
+		
 
 /* Section/Article */
 
