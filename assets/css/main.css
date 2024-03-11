@@ -208,6 +208,8 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
+.wrapingimage{width:70%; margin:0 8px 0 3px; !important}
+
 			.container {
 				width: calc(100% - 40px);
 			}
