@@ -2148,7 +2148,7 @@ ext-align: right;			color: #f9f9f9;
 		#nav > ul {
 			display: inline-block;
 			border-radius: 0.35em;
-			box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.50);
+			box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.60);
 			padding: 0 1.5em 0 1.5em;
 		}
 
@@ -2165,7 +2165,7 @@ ext-align: right;			color: #f9f9f9;
 				#nav > ul > li > a, #nav > ul > li > span {
 					display: block;
 					color: #eee;
-					color: rgba(255, 255, 255, 0.85);
+					color: rgba(255, 255, 255, 0.9);
 					text-transform: uppercase;
 					text-decoration: none;
 					font-size: 0.7em;
