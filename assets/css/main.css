@@ -2091,7 +2091,17 @@ input, select, textarea {
 		background-size: cover;
 		padding: 0;
 	}
-
+	#header.header-pyrenees {
+		background-image: url("../../images/soulwandering5.png");
+	}
+	
+	#header.header-wineregions {
+		background-image: url("../../images/soulwandering2.jpg");
+	}
+	
+	#header.header-primitivo {
+		background-image: url("../../images/soulwandering3.jpg");
+	}
 		#header:before {
 			content: '';
 			position: absolute;
